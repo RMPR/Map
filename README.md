@@ -1,2 +1,2 @@
 # On The Map
-This is a project to practice using API calls in SWIFT and MapKit
+This is a project to practise using API calls in SWIFT and MapKit
